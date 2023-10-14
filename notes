@@ -1,0 +1,4 @@
+à ajouter : check des cronjobs pour privesc (et comparer avec les fichiers qu'on à les perms etc.)
+    -> peut etre ajouter un autre fichier php pour éviter de surcharger la page mais importé depuis le main
+
+
