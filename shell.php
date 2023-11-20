@@ -229,11 +229,7 @@
 
                 if (strlen($file) > 0) 
                 {
-<<<<<<< HEAD
-                    array_push($esc_possible, "suid (to check which files, do : cat " . $GLOBALS['write_path'] . $GLOBALS['basefile'] . "suid.txt)");
-=======
                     array_push($esc_possible, "suid (to check which files, do : ls " . $GLOBALS['write_path'] . $GLOBALS['basefile'] . "suid.txt)");
->>>>>>> 26bb0d9f43e95df8c041c30007c54f2618e7a542
                 }
 
                 return $esc_possible;
